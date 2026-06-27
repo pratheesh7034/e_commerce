@@ -64,8 +64,6 @@ function AdminDashboard() {
 
                 <Link to="/order">🛒 Orders</Link>
 
-                <Link to="/user">👤 Users</Link>
-
                 <button
                     className="logout-btn"
                     onClick={logout}
